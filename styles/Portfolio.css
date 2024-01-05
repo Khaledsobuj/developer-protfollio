@@ -156,3 +156,8 @@ main {
     font-weight: 700;
     line-height: 30px;
 }
+
+#what-ido-description {
+    padding: 30px 150px;
+    text-align: center;
+}
